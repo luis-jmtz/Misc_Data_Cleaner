@@ -1,9 +1,9 @@
-Barbarians are people of rage and recklessness that abandon their own safety as to better defeat their enemy. 
+Thugs are people of rage and recklessness that abandon their own safety as to better defeat their enemy. 
 
-**Barbarian Martial Mastery**
+**Thug Martial Mastery**
 - Combat Training: All Weapons, Light Armor, Light Shields, Medium Shields
-- Maneuvers: You can learn all Attack Maneuvers. You gain Maneuvers as shown in the Barbarian Class Table.
-- Stamina Points: You max number of Stamina Points increases as shown in the Stamina Points Column of the Barbarian Class Table.
+- Maneuvers: You can learn all Attack Maneuvers. You gain Maneuvers as shown in the Thug Class Table.
+- Focus Points: You max number of Focus Points increases as shown in the Focus Points Column of the Thug Class Table.
 - Techniques: The number of Techniques you know increases as shown in the Techniques Known column of the Champion Class Table.
 
 **Starting Equipment**
@@ -12,9 +12,9 @@ Barbarians are people of rage and recklessness that abandon their own safety as 
 - Padded Armor
 - Dungeoneer's OR Explorer's Pack
 
-**Barbarian Class Table**
+**Thug Class Table**
 
-| Level | Bonus HP | Attribute Points | Skill Points | SP  | Maneuvers Known | Techniques Known |
+| Level | Bonus HP | Attribute Points | Skill Points | FP  | Maneuvers Known | Techniques Known |
 | ----- | -------- | ---------------- | ------------ | --- | --------------- | ---------------- |
 | 1     | +1       | -                | -            | +1  | +4              | -                |
 | 2     | +1       | +1               | -            | -   | -               | -                |
@@ -24,10 +24,10 @@ Barbarians are people of rage and recklessness that abandon their own safety as 
 
 **Level 1**
 *Barbaric Stamina*
-When you score a Heavy or Critical Hit against a creature OR if either is scored against you, you regain half of your SP, if you didn't spend SP as part of the action. 
+When you score a Heavy or Critical Hit against a creature OR if either is scored against you, you regain half of your FP, if you didn't spend FP as part of the action. 
 
 *Rage*
-During Combat, you can spend 1 AP and 1 SP to enter a Rage for 1 minute. For the duration, you're subjected to the following effects:
+During Combat, you can spend 1 AP and 1 FP to enter a Rage for 1 minute. For the duration, you're subjected to the following effects:
 - You deal +1 damage on Melee Attacks.
 - You have ADV on Might Checks and Saves.
 - Your AC decreases by 5.
@@ -73,7 +73,7 @@ Berserkers are simple but powerful, relying on their sheer force to defeat their
 - Jump Good: Your Jump Distance increase by 1.
 
 *Swift Berserker*
-- Quick to Anger: When you roll Initiative, you can spend 1 SP to Rage.
+- Quick to Anger: When you roll Initiative, you can spend 1 FP to Rage.
 - Unstoppable Charge: When you Charge (as granted by your *Aggressive Striker* ability), you ignore Difficult Terrain and do not provoke Attacks of Opportunity.
 
 
